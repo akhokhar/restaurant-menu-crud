@@ -1,0 +1,27 @@
+.strong {
+    font-weight: 500;
+  }
+  .loader-wrapper {
+    margin-top: 50px;
+  }
+  .heading {
+    font-size: 28px;
+    padding: 5px 0;
+    background-color: #c6e5fc;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  .no-dish-found {
+    margin-top: 20px;
+    color: rgb(221 145 21);
+  }
+  .edit-icon {
+    color: #26a69a;
+  }
+  .delete-icon {
+    margin-left: 5px;
+    color: #b11414;
+  }
+  .add-dish-btn {
+    margin-top: 20px;
+  }
